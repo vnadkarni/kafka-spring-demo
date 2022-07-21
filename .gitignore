@@ -6,7 +6,9 @@ build/
 !**/src/test/**/build/
 
 # Kafka
-.properties
+*.properties
+application.properties
+resources/application.properties
 
 ### STS ###
 .apt_generated
